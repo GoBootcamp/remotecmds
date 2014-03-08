@@ -4,7 +4,7 @@
 
 * Concurrency (channels, go routines)
 * Network interface
-* Much more dependending on the commands you implement
+* Much more depending on the commands you implement
 
 ## Assignment
 
